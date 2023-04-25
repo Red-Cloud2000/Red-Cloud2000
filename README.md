@@ -19,12 +19,14 @@
 
 <a href="https://www.linkedin.com/in/abdulrahman-hesham/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Hesham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/AbdelrahmanHesham1100/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Hesham-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+[![GitHub Red-Cloud2000](https://img.shields.io/github/followers/Red-Cloud2000?label=follow&style=social)](https://github.com/Red-Cloud2000)
+
+
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=Assembly&logoColor=563D7C)&nbsp;
 ![AVR](https://img.shields.io/badge/-AVR-05122A?style=flat&logo=AVR)&nbsp;
 ![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=ARM)&nbsp;
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -33,4 +35,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Red-Cloud2000&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
