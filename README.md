@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://media.tenor.com/YT66q4fVuVsAAAAd/depressed-be-happy.gif">
+<img width="280" height="350" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg3eDgyMDk1c283eXllaGtucTE3cGNzZGYxczN5YzlmazU3MmwwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.gif">
 
 <h3 align="center">
   Welcome to Abdelrahman Hesham's profile!
@@ -8,10 +8,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Systems%20Software%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Development%20Engineer%20in%20Test;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20"></a>
 </p> 
 
-- 🏢 I'm an Embedded Software Engineer Trainee at Valeo Egypt
+- 🏢 I'm Software Testing Trainee @ Giza Systems - Headway Program Egypt
 - 👨‍💻 As a CE student, I'm constantly learning and exploring new technologies to improve my skills.
 
 
@@ -23,6 +23,12 @@
 
 
 ### 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium&logoColor=43B02A)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira&logoColor=0052CC)&nbsp;
+![Zephyr Squad](https://img.shields.io/badge/-Zephyr%20Squad-05122A?style=flat&logo=Zephyr&logoColor=007ACC)&nbsp;
+![Test Automation](https://img.shields.io/badge/-Test%20Automation-05122A?style=flat&logo=TestAutomation&logoColor=007ACC)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=Assembly&logoColor=563D7C)&nbsp;
 ![AVR](https://img.shields.io/badge/-AVR-05122A?style=flat&logo=AVR)&nbsp;
