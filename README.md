@@ -29,6 +29,8 @@
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira&logoColor=0052CC)&nbsp;
 ![Zephyr Squad](https://img.shields.io/badge/-Zephyr%20Squad-05122A?style=flat&logo=Zephyr&logoColor=007ACC)&nbsp;
 ![Test Automation](https://img.shields.io/badge/-Test%20Automation-05122A?style=flat&logo=TestAutomation&logoColor=007ACC)&nbsp;
+![API](https://img.shields.io/badge/-API-05122A?style=flat&logo=api)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=Assembly&logoColor=563D7C)&nbsp;
 ![AVR](https://img.shields.io/badge/-AVR-05122A?style=flat&logo=AVR)&nbsp;
